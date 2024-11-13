@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> My login page</title>
+</head>
+<body>
+<form>
+<h1> LOGIN/SIGNUP </h1>
+<input type="text" value="mobile/username"/>
+<input type="password" value="password"/>
+<a href ="https://accounts.google.com/lifecycle/steps/signup/name?ddm=0&dsh=S402845116:1728193881395024&flowEntry=SignUp&flowName=GlifWebSignIn&TL=APps6eaDigcgAwNdwgMeEDhg_ME5Z2jfou7xipUa_NrvCSWb-PmB-JAOMMx1wEaf> signup </a>
+<a href ="https://www.namecheap.com/myaccount/login-signup/> login </a>
+</form>
+</html>
